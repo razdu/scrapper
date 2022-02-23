@@ -1,0 +1,9 @@
+body {
+    background-color: #161b22;
+    color: #f0f6fc;
+    width: max-content;
+    height: max-content;
+    box-sizing: border-box;
+    font-size: 1.1em;
+    line-height: 1.5;
+}
